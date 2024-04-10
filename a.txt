@@ -1,0 +1,7 @@
+#inclue <stdio.h>
+#define SUCC 0
+int main(void)
+{
+    printf("hello\n");
+    return SUCC;
+}
